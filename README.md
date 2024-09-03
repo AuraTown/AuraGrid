@@ -7,7 +7,7 @@ Creating new tickets for bugs or feature requests is much appreciated 🙂 Feel 
 
 ## Getting Started
 
-Head over to [our website](https://aura.town) to download and try out the editor.
+Head over to [our website](https://aura.town) to download and try out the app ot the midi controller configs.
 
 ## Features
 
