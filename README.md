@@ -18,9 +18,9 @@ Note: We're working hard to extend the compatibility to more controllers, but be
 | Brand | Model | Grid Size | Velocity Sensitive | RGB LED | Year Released |
 |-------|-------|-----------|---------------------|---------|---------------|
 | Novation | Launchpad Pro MK3 | ✅ 8x8 | ✅ Yes | ✅ Yes | 2020 |
-| Novation | Launchpad X | ✅ 8x8 | ✅ Yes | 🚧 Yes | 2019 |
-| Novation | Launchpad Mini MK3 | ✅ 8x8 | ✅ Yes | 🚧 Yes | 2019 |
-| Novation | Launchpad Pro | ✅ 8x8 | ✅ Yes | 🚧 Yes | 2015 |
+| Novation | Launchpad X | ✅ 8x8 | ✅ Yes | 🧪 Yes | 2019 |
+| Novation | Launchpad Mini MK3 | ✅ 8x8 | ✅ Yes | 🧪 Yes | 2019 |
+| Novation | Launchpad Pro | ✅ 8x8 | ✅ Yes | 🧪 Yes | 2015 |
 | Novation | Launchpad Mini MK2 | ✅ 8x8 | ❌ No | 🚧 Yes | 2015 |
 | Novation | Launchpad MK2 | ✅ 8x8 | ❌ No | 🚧 Yes | 2015 |
 | Novation | Circuit | 🚧 4x8 | ✅ Yes | 🚧 Yes | 2015 |
