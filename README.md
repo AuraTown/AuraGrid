@@ -26,6 +26,7 @@ Note: We're working hard to extend the compatibility to more controllers, but be
 | Novation | Circuit | 🚧 4x8 | ✅ Yes | 🚧 Yes | 2015 |
 | Novation | Launchpad S | ✅ 8x8 | ❌ No | ❌ No | 2013 |
 | Novation | Launchpad | ✅ 8x8 | ❌ No | ❌ No | 2009 |
+| Ableton | Move | 🚧 4x8 | ✅ Yes | 🚧 Yes | 2024 |
 | Ableton | Push 3 | ✅ 8x8 | ✅ Yes | 🚧 Yes | 2023 |
 | Ableton | Push 2 | ✅ 8x8 | ✅ Yes | 🚧 Yes | 2015 |
 | Ableton | Push | ✅ 8x8 | ✅ Yes | 🚧 Yes | 2013 |
