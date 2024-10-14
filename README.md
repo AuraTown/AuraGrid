@@ -51,7 +51,7 @@ Note: We're working hard to extend the compatibility to more controllers, but be
 | Faderfox | EC4 | 🚧 4x4 | ✅ Yes | ❌ No | 2019 |
 | Monome | Grid 256 | 🚧 16x16 | ❌ No | ❌ No | 2008 |
 | Monome | Grid 128 | 🚧 16x8 | ❌ No | ❌ No | 2007 |
-| Monome | Grid 64 | ✅ 8x8 | ❌ No | ❌ No | 2006 |
+| Monome | Grid 64 | 🚧 8x8 | ❌ No | ❌ No | 2006 |
 | Synthstrom | [Deluge](https://synthstrom.com/product/deluge/) | 🚧 16x8 | ❌ No | ❌ No | 2021 |
 
 ## Features
