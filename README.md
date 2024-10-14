@@ -37,7 +37,7 @@ Note: We're working hard to extend the compatibility to more controllers, but be
 | Native Instruments | Maschine Mikro Mk2 | 🚧 4x4 | ✅ Yes | 🚧 Yes | 2012 |
 | Native Instruments | Maschine Mikro | 🚧 4x4 | ✅ Yes | ❌ No | 2011 |
 | Native Instruments | Maschine | 🚧 4x4 | ✅ Yes | ❌ No | 2009 |
-| Akai | Force | ✅ 8x8 | ✅ Yes | 🚧 Yes | 2019 |
+| Akai | Force | 🚧 8x8 | ✅ Yes | 🚧 Yes | 2019 |
 | Akai | Fire (for FL Studio) | 🚧 4x16 | ✅ Yes | 🚧 Yes | 2018 |
 | Akai | APC40 MKII | 🚧 8x5 | ❌ No | 🚧 Yes | 2014 |
 | Akai | APC40 | 🚧 8x5 | ❌ No | ❌ No | 2009 |
