@@ -45,6 +45,8 @@ Note: We're working hard to extend the compatibility to more controllers, but be
 | Arturia | BeatStep | 🚧 4x4 | ✅ Yes | ❌ No | 2014 |
 | Roli | Lightpad Block M | 🚧 5x5 | ✅ Yes | 🚧 Yes | 2017 |
 | Roli | Lightpad Block | 🚧 5x5 | ✅ Yes | 🚧 Yes | 2016 |
+| 203.io | Mystrix | ✅ 8x8 | ❌ No | ✅ Yes | 2024 |
+| 203.io | Mystrix Pro | ✅ 8x8 | ✅ Yes | ✅ Yes | 2024 |
 | Roger Linn Design | LinnStrument 128 | 🚧 16x8 | ✅ Yes | 🚧 Yes | 2019 |
 | Roger Linn Design | LinnStrument | 🚧 25x8 | ✅ Yes | 🚧 Yes | 2014 |
 | Keith McMillen | QuNeo | 🚧 4x4 (main) + additional pads | ✅ Yes | 🚧 Yes | 2012 |
